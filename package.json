@@ -2,7 +2,7 @@
   "name": "table-lib",
   "version": "1.0.0",
   "dependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "2.1.1",
